@@ -1,5 +1,5 @@
 # Linked List Operations
-linkedlist Operations <br/>
+linkedlist Operations (Single - Double) <br/>
 = delete (from end - from begin - from position)<br/>
 = insert (from end - from -begin -from position)<br/>
 = reverse<br/>
